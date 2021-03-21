@@ -1,4 +1,4 @@
-# -Intel-Image-Classification
+# Intel-Image-Classification
 Classification of image data of Natural Scenes around the world.
 
 This Data contains around 25k images of size 150x150 distributed under 6 categories.
